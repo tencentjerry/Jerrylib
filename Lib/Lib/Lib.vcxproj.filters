@@ -18,5 +18,16 @@
     <ClInclude Include="allocator.h">
       <Filter>源文件</Filter>
     </ClInclude>
+    <ClInclude Include="base.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mystl.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
