@@ -5,6 +5,7 @@
 
 int main()
 {
+        int b = 4;
 
 	MySTL::map<int, int> stMap;
 
